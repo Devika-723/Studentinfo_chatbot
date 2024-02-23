@@ -1,0 +1,35 @@
+body{
+  background-image: url("login.jpg");
+  font-family: 'Muli', sans-serif;
+  
+}
+h1{
+  color: #26e8d5;
+  padding-bottom: 2rem;
+  font-weight: bold;
+}
+a{
+  color: #dc1313;
+}
+a:hover{
+  color: #26c4e8;
+  text-decoration: none;
+}
+.form-control:focus {
+
+    color: #000;
+    background-color:#26bbe8;
+    border:2px solid #e86a26fe;
+    outline: 0;
+    box-shadow: none;
+
+}
+
+.btn{
+  background: #cb26e8;
+  border: #e82684;
+}
+.btn:hover {
+  background: #e82694;
+  border: #e8265d;
+}
